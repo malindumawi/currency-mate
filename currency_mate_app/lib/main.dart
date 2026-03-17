@@ -31,12 +31,12 @@ class MyApp extends StatelessWidget {
       routes: {
         '/loading':(context)=> const LoadingScreen(),
         '/home':(context)=> const HomeScreen(),
-        '/detect_currency':(context)=> const DetectCurrency(),
-        '/login':(context)=>  const LoginScreen(),
-        '/sign_in':(context)=>  SignupScreen(),
-        '/forgot_password':(context)=>   ForgotPassword(),
-        '/record':(context)=>   const PreviousRecord(),
-        '/upload_currency': (context) => const UploadCurrency(),
+        //'/detect_currency':(context)=> const DetectCurrency(),
+        //'/login':(context)=>  const LoginScreen(),
+        //'/sign_in':(context)=>  SignupScreen(),
+        //'/forgot_password':(context)=>   ForgotPassword(),
+        //'/record':(context)=>   const PreviousRecord(),
+        //'/upload_currency': (context) => const UploadCurrency(),
       },
     );
   }
