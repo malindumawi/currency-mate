@@ -3,6 +3,7 @@
 ==================================================
 
 🚀 Project Overview
+--------------------------------------------------
 CurrencyMate is a mobile application designed to assist visually impaired individuals in identifying Sri Lankan currency notes using image recognition techniques. The application is built using Flutter with a focus on accessibility and user-friendly UI/UX design created in Figma.
 
 --------------------------------------------------
